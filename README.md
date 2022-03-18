@@ -61,3 +61,11 @@ git pull upstream main
 
 will pull the latest changes (newest problem sets) from `hms-dbmi/bmi706-2022`
 as they are added.
+
+### Useful Resources
+- [Altair Documentation :link:](https://altair-viz.github.io/gallery/index.html)  
+  You will use Altair, a Python visualization library, to create interactive visualizations in this course.
+- [Pandas Documentation :link:](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
+  You will use Pandas to read and process datasets for the visualization.
+- [Google Colaboratory Documentation :link:](https://colab.research.google.com/)
+  You will create visualizations and submit them using Google Colab notebook. 
