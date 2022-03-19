@@ -16,6 +16,8 @@ so that you are able to:
 
 #### Fork `hms-dbmi/bmi706-2022`
 
+<img width="1209" alt="image" src="https://user-images.githubusercontent.com/19774198/159098237-d03f193a-f50a-499d-b3ee-4c336c52bab3.png">
+
 For more details on forking, see the [GitHub documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
 #### Clone the fork (`<YOUR-GITHUB-USERNAME>/bmi706-2022`) to your machine
