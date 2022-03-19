@@ -30,7 +30,7 @@ git clone git+https://github.com/<YOUR-GITHUB-USERNAME>/bmi706-2022.git
 
 In order to pull down the latest assignments as they are released,
 you will need to point your local clone to both your fork _and_ the original
-`hms-dbmi/bmi706-2022` repository. The is accompished using git "remotes".
+`hms-dbmi/bmi706-2022` repository. The is accomplished using git "remotes".
 
 Make sure you `cd` into your local repository, then
 
@@ -44,10 +44,10 @@ git remote add upstream https://github.com/hms-dbmi/bmi706-2022.git
 
 Each problem set for the course will be added to a folder in this repository
 with the names `ps1`, `ps2`, and `ps3` respectively. Each folder will contain
-additional instructions of how to get started. 
+additional instructions on how to get started. 
 
 Although we will ask for files to be submitted on Canvas, please commit your
-changes as you work. This will be important to sharing visualizations for Problem
+changes as you work. This will be important to share visualizations for Problem
 Set 3 and the Final Project.
 
 ### Getting the latest assignments
